@@ -1,4 +1,4 @@
-![Header](https://psv4.userapi.com/c856420/u256152315/docs/d9/2751221acc33/ezgif-5-50aca7cb1944.gif?extra=mlK3lubwmd4z3EHizXRVnzd-iMBmC3C5qwR74DMM0ypICtlHmse7DP2jc4HGSgQndW6eCkWLyYVjjW0LhMDjzvV4uVGDqetMa9tKfTtFpejUgTml2rW1t9hOuOfkW6E7RrqziJBFPzIIJA0BfsUg8KSfoaE-)
+![Header](https://psv4.userapi.com/c856220/u425730731/docs/d11/f001c25c0442/Blade_runner_2049.gif?extra=YNY2sPlY3cJ8zAuYzYPd9giRtqzo5TjgHc79DeFXV2J3JlhwMF-6ihRqvxisVoMB6Aoc1B3bFW_5bHVNYJMZrbHDtqGwVdSFKZA-aslUY9L9NXwX0yhTgh0PeimBsr2gaiHFL-GOKxArgFOSCGHb2NE)
 
 
 ## Я участник конкурса "Кванториада", а это мой GitHub профиль
@@ -13,4 +13,4 @@
 
 ### Я в соц-сетях:
 
-[![link](https://img.shields.io/badge/Вконтакте-99b1c6?style=for-the-badge&logo=vk&link=http://left&link=https://vk.com/shtpst69)](https://vk.com/shtpst69)
+![lang](https://img.shields.io/badge/Вконтакте-99b1c6?style=for-the-badge&logo=vk&link=http://left&link=https://vk.com/shtpst69)
