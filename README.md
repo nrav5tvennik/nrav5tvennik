@@ -6,11 +6,11 @@
 -----
 Мои языки программирования:
 
-![lang](https://img.shields.io/badge/Python-626462?style=for-the-badge&logo=python)
-![lang](https://img.shields.io/badge/HTML-ffffff?style=for-the-badge&logo=HTML5)
-![lang](https://img.shields.io/badge/JAVASCRIPT-5aa7ff?style=for-the-badge&logo=javascript)
+![lang](https://img.shields.io/badge/Python-021314?style=for-the-badge&logo=python)
+![lang](https://img.shields.io/badge/HTML-021314?style=for-the-badge&logo=HTML5)
+![lang](https://img.shields.io/badge/JAVASCRIPT-021314?style=for-the-badge&logo=javascript)
 
 
 ### Я в соц-сетях:
 
-![lang](https://img.shields.io/badge/Вконтакте-99b1c6?style=for-the-badge&logo=vk&link=http://left&link=https://vk.com/shtpst69)
+![lang](https://img.shields.io/badge/Вконтакте-021314?style=for-the-badge&logo=vk&link=http://left&link=https://vk.com/shtpst69)
