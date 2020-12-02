@@ -13,4 +13,4 @@
 
 ### Я в соц-сетях:
 
-![lang](https://img.shields.io/badge/Вконтакте-99b1c6?style=for-the-badge&logo=vk&link=http://left&link=https://vk.com/shtpst69)
+[![link](https://img.shields.io/badge/Вконтакте-99b1c6?style=for-the-badge&logo=vk&link=http://left&link=https://vk.com/shtpst69)](https://vk.com/shtpst69)
