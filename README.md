@@ -1,4 +1,4 @@
-![Header](https://psv4.userapi.com/c856220/u425730731/docs/d11/f001c25c0442/Blade_runner_2049.gif?extra=YNY2sPlY3cJ8zAuYzYPd9giRtqzo5TjgHc79DeFXV2J3JlhwMF-6ihRqvxisVoMB6Aoc1B3bFW_5bHVNYJMZrbHDtqGwVdSFKZA-aslUY9L9NXwX0yhTgh0PeimBsr2gaiHFL-GOKxArgFOSCGHb2NE)
+![Header](https://p82.cooltext.com/Rendered/Cool%20Text%20-%20NRAV5TVENNIK%20370308149927856.png)
 
 ## Я участник конкурса "Кванториада", а это мой GitHub профиль
 
