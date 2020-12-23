@@ -1,6 +1,6 @@
 ![Header](https://psv4.userapi.com/c856436/u557787615/docs/d8/4fe33258a596/1599933877723.gif?extra=BVDfpgYTs9XIO9ItMz5zWF4iuWwo4vHYaISavmdYt9oeT0UN-VwWfJ7mWnGdYlq512X1y4JnomFku4DagAa6XsOV4N_78S7VEdDiZ7s4joT8uk94dOPcrmb2lXxI1YyrTjLwlf50znOMtwL0iwWi_BsW1d0)
 
-## Я участник конкурса "Кванториада", а это мой GitHub профиль
+## Я Матюшкин Никита Андреевич, а это мой GitHub профиль
 
 -----
 Мои языки программирования:
